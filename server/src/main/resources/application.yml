@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://qodtn:1234@cluster0-1xs3x.gcp.mongodb.net/opensource?retryWrites=true&w=majority
+      database: opensource
